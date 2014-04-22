@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo><title>Stopping By Woods - 2nd Edition</title><subTitle>asdfasdf</subTitle></titleInfo>
+  <titleInfo type="abbreviated">
+    <title>fkftktyd</title>
+  </titleInfo>
+  <genre>etykdtykd</genre>
+  <abstract>a;sdlkfhj;asdl</abstract>
+  <accessCondition type="useAndReproduction">dtykdtykdtk</accessCondition>
+  <name type="personal">
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+    <namePart type="given">Other</namePart>
+    <namePart type="family">Person</namePart>
+    <displayForm>Other Person (0-88798-120-8)</displayForm>
+  </name>
+  <name type="corporate">
+    <namePart>dtykdtyk</namePart>
+  </name>
+  <name type="personal">
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+    <namePart type="given">dtykdtyk</namePart>
+    <namePart type="family">dtykdtyk</namePart>
+  </name>
+  <name type="personal">
+    <role>
+      <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+    </role>
+    <namePart type="given">dtykdtyk</namePart>
+    <namePart type="family">dtykdtyk</namePart>
+  </name>
+  <originInfo><dateIssued qualifier="inferred">2002-02-20</dateIssued><publisher>rtyjteyjkety</publisher><place><placeTerm type="text">etyketyketyk</placeTerm></place></originInfo>
+  <typeOfResource>text</typeOfResource>
+  <location><url>;kh;lkh</url></location>
+  <note type="type of work">;lkj;lkj</note>
+  <subject>
+    <topic>kjhfkjhf</topic>
+  </subject>
+  <note type="publication status">kjhfkjhfkjhf</note>
+  <identifier type="isbn">kjhfkjhf</identifier>
+  <identifier type="issn">kjhfkjhf</identifier>
+  <identifier type="doi">kjhfkjhf</identifier>
+  <identifier type="accessnum">kjhfkjhf</identifier>
+  <identifier type="pmc">kjhfkjhf</identifier>
+  <identifier type="uri">kjhfkjhf</identifier>
+  <identifier type="citekey">kjhfkjhf</identifier>
+  <part><date>1999-01-01</date><detail type="volume"><number>110</number></detail><detail type="issue"><number>Book 1 Issue</number></detail><extent unit="page"><start>Book 1 Start Page</start><end>Book 1 End Page</end></extent></part>
+  <language>
+    <languageTerm>eng</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>sldfgkjh</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>lkjgsdlfkgj</title>
+    </titleInfo>
+    <originInfo><issuance>lksjdglkj</issuance></originInfo>
+    <genre>lkjsgdlkj</genre>
+    <identifier type="issn">lkjgsdlkjg</identifier>
+    <identifier type="serial number">lkjgslkgjl</identifier>
+    <name type="corporate">
+      <namePart>lksjgvlkjg</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">author</roleTerm>
+      </role>
+    </name>
+  </relatedItem>
+  <note>lksjdgq;oiqhwe;foi</note>
+</mods>
